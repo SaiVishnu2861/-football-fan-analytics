@@ -1,0 +1,217 @@
+date,time,home_team,away_team,home_score,away_score,attendance,venue
+07-Mar-2025,7:40 PM,Sydney,Hawthorn,76,96,40310,S.C.G.
+09-Mar-2025,3:20 PM,Greater Western Sydney,Collingwood,104,52,19248,Sydney Showground
+29-Mar-2025,6:35 PM,Brisbane Lions,Geelong,70,61,27966,Gabba
+27-Aug-2025,7:20 PM,Gold Coast,Essendon,153,58,16768,Carrara
+13-Mar-2025,7:30 PM,Richmond,Carlton,82,69,80009,M.C.G.
+14-Mar-2025,7:40 PM,Hawthorn,Essendon,111,85,80735,M.C.G.
+15-Mar-2025,1:20 PM,Geelong,Fremantle,147,69,25372,Kardinia Park
+15-Mar-2025,4:15 PM,Sydney,Brisbane Lions,82,86,34906,S.C.G.
+15-Mar-2025,7:35 PM,Collingwood,Port Adelaide,136,45,63282,M.C.G.
+15-Mar-2025,7:35 PM,Western Bulldogs,North Melbourne,113,97,34406,Docklands
+16-Mar-2025,12:05 PM,Adelaide,St Kilda,135,72,42985,Adelaide Oval
+16-Mar-2025,3:20 PM,Melbourne,Greater Western Sydney,74,77,23278,M.C.G.
+16-Mar-2025,3:10 PM,West Coast,Gold Coast,49,136,46532,Perth Stadium
+20-Mar-2025,7:30 PM,Carlton,Hawthorn,60,80,62735,M.C.G.
+21-Mar-2025,7:40 PM,Western Bulldogs,Collingwood,70,76,78027,M.C.G.
+22-Mar-2025,1:20 PM,Essendon,Adelaide,100,161,46688,M.C.G.
+22-Mar-2025,3:45 PM,Port Adelaide,Richmond,140,68,37342,Adelaide Oval
+22-Mar-2025,7:35 PM,St Kilda,Geelong,98,91,36663,Docklands
+23-Mar-2025,12:10 PM,Brisbane Lions,West Coast,94,75,30012,Gabba
+23-Mar-2025,3:20 PM,North Melbourne,Melbourne,125,66,28768,Docklands
+23-Mar-2025,3:10 PM,Fremantle,Sydney,65,68,43882,Perth Stadium
+27-Mar-2025,7:30 PM,Essendon,Port Adelaide,72,60,25114,Docklands
+28-Mar-2025,7:40 PM,Carlton,Western Bulldogs,75,83,44894,Docklands
+29-Mar-2025,1:20 PM,Melbourne,Gold Coast,62,120,24506,M.C.G.
+29-Mar-2025,4:15 PM,St Kilda,Richmond,135,53,41147,Docklands
+29-Mar-2025,7:35 PM,Hawthorn,Greater Western Sydney,76,64,14021,York Park
+30-Mar-2025,2:50 PM,Adelaide,North Melbourne,114,78,46511,Adelaide Oval
+30-Mar-2025,3:10 PM,West Coast,Fremantle,68,106,53289,Perth Stadium
+03-Apr-2025,7:30 PM,Collingwood,Carlton,63,46,82058,M.C.G.
+04-Apr-2025,7:40 PM,Geelong,Melbourne,85,46,30397,Kardinia Park
+05-Apr-2025,12:20 PM,Gold Coast,Adelaide,91,90,16211,Carrara
+05-Apr-2025,4:15 PM,Richmond,Brisbane Lions,90,118,42578,M.C.G.
+05-Apr-2025,7:35 PM,North Melbourne,Sydney,52,117,31955,Docklands
+06-Apr-2025,1:10 PM,Greater Western Sydney,West Coast,132,51,9231,Sydney Showground
+06-Apr-2025,2:50 PM,Port Adelaide,St Kilda,72,89,34201,Adelaide Oval
+06-Apr-2025,3:10 PM,Fremantle,Western Bulldogs,97,81,41491,Perth Stadium
+10-Apr-2025,7:10 PM,Adelaide,Geelong,100,119,50073,Adelaide Oval
+11-Apr-2025,7:10 PM,Collingwood,Sydney,109,78,47649,Adelaide Oval
+12-Apr-2025,12:05 PM,North Melbourne,Gold Coast,89,141,9317,Barossa Park
+12-Apr-2025,12:50 PM,Carlton,West Coast,121,50,41252,Adelaide Oval
+12-Apr-2025,3:45 PM,Western Bulldogs,Brisbane Lions,97,118,9242,Norwood Oval
+12-Apr-2025,7:05 PM,Melbourne,Essendon,57,96,45039,Adelaide Oval
+13-Apr-2025,12:05 PM,Richmond,Fremantle,47,108,10028,Barossa Park
+13-Apr-2025,2:50 PM,St Kilda,Greater Western Sydney,82,110,9235,Norwood Oval
+13-Apr-2025,6:50 PM,Port Adelaide,Hawthorn,121,91,47671,Adelaide Oval
+17-Apr-2025,7:30 PM,Brisbane Lions,Collingwood,53,105,34802,Gabba
+18-Apr-2025,3:20 PM,North Melbourne,Carlton,71,153,46373,Docklands
+18-Apr-2025,4:10 PM,West Coast,Essendon,75,77,46080,Perth Stadium
+19-Apr-2025,1:20 PM,Melbourne,Fremantle,107,97,25202,M.C.G.
+19-Apr-2025,3:45 PM,Adelaide,Greater Western Sydney,52,34,40062,Adelaide Oval
+19-Apr-2025,7:35 PM,Richmond,Gold Coast,80,69,18423,Docklands
+20-Apr-2025,3:20 PM,Sydney,Port Adelaide,77,85,36636,S.C.G.
+20-Apr-2025,7:20 PM,Western Bulldogs,St Kilda,127,56,35511,Docklands
+21-Apr-2025,3:20 PM,Geelong,Hawthorn,86,79,88746,M.C.G.
+24-Apr-2025,7:30 PM,Melbourne,Richmond,83,63,71635,M.C.G.
+25-Apr-2025,3:20 PM,Collingwood,Essendon,107,66,92044,M.C.G.
+25-Apr-2025,6:10 PM,Fremantle,Adelaide,85,67,53048,Perth Stadium
+26-Apr-2025,1:20 PM,St Kilda,Brisbane Lions,73,118,29901,Docklands
+26-Apr-2025,3:45 PM,Port Adelaide,North Melbourne,97,88,35004,Adelaide Oval
+26-Apr-2025,7:35 PM,Greater Western Sydney,Western Bulldogs,81,113,12234,Manuka Oval
+27-Apr-2025,1:15 PM,Gold Coast,Sydney,117,79,18034,Carrara
+27-Apr-2025,3:20 PM,Carlton,Geelong,94,76,67658,M.C.G.
+27-Apr-2025,4:45 PM,Hawthorn,West Coast,124,74,26425,Docklands
+01-May-2025,7:30 PM,Essendon,North Melbourne,65,62,35439,Docklands
+02-May-2025,7:40 PM,St Kilda,Fremantle,94,33,20522,Docklands
+03-May-2025,1:20 PM,Western Bulldogs,Port Adelaide,131,41,4814,Eureka Stadium
+03-May-2025,3:45 PM,Adelaide,Carlton,110,50,46057,Adelaide Oval
+03-May-2025,5:35 PM,West Coast,Melbourne,76,108,41991,Perth Stadium
+03-May-2025,7:35 PM,Collingwood,Geelong,87,90,82514,M.C.G.
+04-May-2025,1:10 PM,Sydney,Greater Western Sydney,87,73,39260,S.C.G.
+04-May-2025,3:20 PM,Hawthorn,Richmond,109,44,62321,M.C.G.
+04-May-2025,7:20 PM,Brisbane Lions,Gold Coast,66,49,33612,Gabba
+08-May-2025,6:10 PM,Fremantle,Collingwood,83,97,47780,Perth Stadium
+09-May-2025,7:40 PM,St Kilda,Carlton,62,77,65680,M.C.G.
+10-May-2025,1:20 PM,Melbourne,Hawthorn,56,91,50351,M.C.G.
+10-May-2025,4:15 PM,Essendon,Sydney,71,63,43799,Docklands
+10-May-2025,7:05 PM,Gold Coast,Western Bulldogs,106,96,9816,Marrara Oval
+10-May-2025,7:40 PM,Port Adelaide,Adelaide,84,89,53117,Adelaide Oval
+11-May-2025,1:10 PM,Richmond,West Coast,81,79,29539,M.C.G.
+11-May-2025,3:20 PM,Geelong,Greater Western Sydney,101,105,28407,Kardinia Park
+11-May-2025,4:40 PM,North Melbourne,Brisbane Lions,71,71,7395,Bellerive Oval
+15-May-2025,7:00 PM,Gold Coast,Hawthorn,104,96,12314,Marrara Oval
+16-May-2025,7:40 PM,Sydney,Carlton,78,62,39082,S.C.G.
+17-May-2025,1:20 PM,Collingwood,Adelaide,78,68,67697,M.C.G.
+17-May-2025,3:45 PM,Port Adelaide,Geelong,39,115,35508,Adelaide Oval
+17-May-2025,4:15 PM,Greater Western Sydney,Fremantle,61,95,8092,Sydney Showground
+17-May-2025,7:35 PM,Western Bulldogs,Essendon,127,36,47266,Docklands
+18-May-2025,1:10 PM,Richmond,North Melbourne,74,78,54060,M.C.G.
+18-May-2025,3:20 PM,Brisbane Lions,Melbourne,88,99,30473,Gabba
+18-May-2025,2:40 PM,West Coast,St Kilda,108,80,42860,Perth Stadium
+22-May-2025,7:30 PM,Geelong,Western Bulldogs,127,113,32641,Kardinia Park
+23-May-2025,7:40 PM,Essendon,Richmond,81,58,76051,M.C.G.
+24-May-2025,12:35 PM,Carlton,Greater Western Sydney,82,110,36468,Docklands
+24-May-2025,4:15 PM,Hawthorn,Brisbane Lions,60,93,57919,M.C.G.
+24-May-2025,7:35 PM,North Melbourne,Collingwood,63,108,40479,Docklands
+24-May-2025,6:10 PM,Fremantle,Port Adelaide,100,51,40466,Perth Stadium
+25-May-2025,12:40 PM,Adelaide,West Coast,128,62,39271,Adelaide Oval
+25-May-2025,3:20 PM,Melbourne,Sydney,131,78,38520,M.C.G.
+25-May-2025,4:40 PM,St Kilda,Gold Coast,61,80,13486,Docklands
+29-May-2025,7:30 PM,Brisbane Lions,Essendon,90,72,26441,Gabba
+30-May-2025,7:40 PM,Collingwood,Hawthorn,107,56,83706,M.C.G.
+31-May-2025,1:20 PM,Gold Coast,Fremantle,64,75,11750,Carrara
+31-May-2025,4:15 PM,Greater Western Sydney,Richmond,80,77,9770,Sydney Showground
+31-May-2025,7:35 PM,Sydney,Adelaide,41,131,35229,S.C.G.
+01-Jun-2025,2:50 PM,Melbourne,St Kilda,63,91,6721,Traeger Park
+01-Jun-2025,5:20 PM,West Coast,Geelong,73,116,42501,Perth Stadium
+05-Jun-2025,7:30 PM,Western Bulldogs,Hawthorn,59,81,35725,Docklands
+06-Jun-2025,7:10 PM,Adelaide,Brisbane Lions,68,63,42921,Adelaide Oval
+07-Jun-2025,1:20 PM,Richmond,Sydney,36,80,41452,M.C.G.
+07-Jun-2025,4:15 PM,Geelong,Gold Coast,61,37,29502,Kardinia Park
+07-Jun-2025,7:35 PM,Greater Western Sydney,Port Adelaide,50,66,9005,Manuka Oval
+08-Jun-2025,1:20 PM,North Melbourne,West Coast,62,52,12715,Hands Oval
+08-Jun-2025,7:20 PM,Carlton,Essendon,78,70,74280,M.C.G.
+09-Jun-2025,3:20 PM,Melbourne,Collingwood,71,72,77761,M.C.G.
+12-Jun-2025,7:30 PM,St Kilda,Western Bulldogs,60,132,20508,Docklands
+13-Jun-2025,7:40 PM,Hawthorn,Adelaide,47,44,15129,York Park
+14-Jun-2025,1:20 PM,Brisbane Lions,Greater Western Sydney,96,107,30711,Gabba
+14-Jun-2025,4:15 PM,Essendon,Geelong,56,151,61643,M.C.G.
+14-Jun-2025,5:35 PM,North Melbourne,Fremantle,67,73,31408,Perth Stadium
+15-Jun-2025,2:50 PM,Port Adelaide,Melbourne,93,68,30144,Adelaide Oval
+15-Jun-2025,4:10 PM,West Coast,Carlton,52,86,43803,Perth Stadium
+19-Jun-2025,6:10 PM,Fremantle,Essendon,104,63,37570,Perth Stadium
+20-Jun-2025,7:40 PM,Geelong,Brisbane Lions,51,92,35367,Kardinia Park
+21-Jun-2025,1:20 PM,Carlton,North Melbourne,73,84,56236,M.C.G.
+21-Jun-2025,3:45 PM,Port Adelaide,Sydney,52,71,33576,Adelaide Oval
+21-Jun-2025,7:35 PM,Collingwood,St Kilda,108,74,43039,Docklands
+22-Jun-2025,1:10 PM,Greater Western Sydney,Gold Coast,106,99,10504,Sydney Showground
+22-Jun-2025,3:20 PM,Western Bulldogs,Richmond,135,56,38280,Docklands
+26-Jun-2025,7:00 PM,Port Adelaide,Carlton,110,60,30381,Adelaide Oval
+27-Jun-2025,7:40 PM,Sydney,Western Bulldogs,96,105,29246,S.C.G.
+28-Jun-2025,1:20 PM,Gold Coast,Melbourne,104,85,13064,Carrara
+28-Jun-2025,4:15 PM,Hawthorn,North Melbourne,150,65,13287,York Park
+28-Jun-2025,7:35 PM,Collingwood,West Coast,88,59,38126,Docklands
+29-Jun-2025,3:15 PM,Richmond,Adelaide,54,122,23231,M.C.G.
+29-Jun-2025,3:10 PM,Fremantle,St Kilda,81,69,41600,Perth Stadium
+03-Jul-2025,7:30 PM,North Melbourne,Western Bulldogs,85,134,25009,Docklands
+04-Jul-2025,7:20 PM,Carlton,Collingwood,59,115,75827,M.C.G.
+04-Jul-2025,6:20 PM,West Coast,Greater Western Sydney,52,111,38152,Perth Stadium
+05-Jul-2025,12:35 PM,Essendon,Gold Coast,74,115,29672,Docklands
+05-Jul-2025,4:15 PM,Geelong,Richmond,124,52,31060,Kardinia Park
+05-Jul-2025,7:35 PM,Brisbane Lions,Port Adelaide,120,92,30017,Gabba
+05-Jul-2025,7:40 PM,St Kilda,Hawthorn,74,94,36035,Docklands
+06-Jul-2025,1:10 PM,Sydney,Fremantle,94,83,32007,S.C.G.
+06-Jul-2025,2:45 PM,Adelaide,Melbourne,90,77,43306,Adelaide Oval
+10-Jul-2025,7:30 PM,Carlton,Brisbane Lions,66,103,32898,Docklands
+11-Jul-2025,7:40 PM,Gold Coast,Collingwood,69,63,22831,Carrara
+12-Jul-2025,1:20 PM,Western Bulldogs,Adelaide,98,109,41198,Docklands
+12-Jul-2025,4:15 PM,Greater Western Sydney,Geelong,111,85,13349,Sydney Showground
+12-Jul-2025,7:35 PM,Richmond,Essendon,46,37,52125,M.C.G.
+12-Jul-2025,6:10 PM,Fremantle,Hawthorn,77,64,49460,Perth Stadium
+13-Jul-2025,1:10 PM,Melbourne,North Melbourne,119,83,35844,M.C.G.
+13-Jul-2025,3:15 PM,St Kilda,Sydney,87,92,29589,Docklands
+13-Jul-2025,4:10 PM,Port Adelaide,West Coast,87,61,30553,Adelaide Oval
+17-Jul-2025,7:30 PM,Essendon,Greater Western Sydney,56,104,20347,Docklands
+18-Jul-2025,7:40 PM,Brisbane Lions,Western Bulldogs,86,76,29039,Gabba
+19-Jul-2025,1:20 PM,Hawthorn,Port Adelaide,87,49,12772,York Park
+19-Jul-2025,4:15 PM,Sydney,North Melbourne,84,53,31909,S.C.G.
+19-Jul-2025,7:35 PM,Carlton,Melbourne,78,70,40869,M.C.G.
+19-Jul-2025,6:10 PM,West Coast,Richmond,56,105,44252,Perth Stadium
+20-Jul-2025,1:10 PM,Geelong,St Kilda,113,82,29985,Kardinia Park
+20-Jul-2025,3:15 PM,Collingwood,Fremantle,78,79,62198,M.C.G.
+20-Jul-2025,4:10 PM,Adelaide,Gold Coast,107,46,44249,Adelaide Oval
+24-Jul-2025,7:30 PM,Hawthorn,Carlton,85,61,51271,M.C.G.
+25-Jul-2025,7:20 PM,Essendon,Western Bulldogs,50,143,29367,Docklands
+25-Jul-2025,7:50 PM,Greater Western Sydney,Sydney,102,58,18536,Sydney Showground
+26-Jul-2025,1:20 PM,Gold Coast,Brisbane Lions,130,64,20833,Carrara
+26-Jul-2025,2:15 PM,Fremantle,West Coast,126,77,54384,Perth Stadium
+26-Jul-2025,7:35 PM,North Melbourne,Geelong,49,150,25445,Docklands
+26-Jul-2025,7:40 PM,Adelaide,Port Adelaide,133,35,46018,Adelaide Oval
+27-Jul-2025,2:10 PM,Richmond,Collingwood,57,93,59454,M.C.G.
+27-Jul-2025,3:15 PM,St Kilda,Melbourne,96,90,22570,Docklands
+31-Jul-2025,7:30 PM,Western Bulldogs,Greater Western Sydney,132,44,23898,Docklands
+01-Aug-2025,7:10 PM,Adelaide,Hawthorn,101,87,50654,Adelaide Oval
+02-Aug-2025,1:20 PM,Melbourne,West Coast,139,56,16394,Docklands
+02-Aug-2025,4:10 PM,Gold Coast,Richmond,107,23,14841,Carrara
+02-Aug-2025,4:15 PM,Sydney,Essendon,68,54,20805,S.C.G.
+02-Aug-2025,7:35 PM,Collingwood,Brisbane Lions,65,92,82326,M.C.G.
+03-Aug-2025,1:40 PM,St Kilda,North Melbourne,78,69,31978,Docklands
+03-Aug-2025,3:15 PM,Geelong,Port Adelaide,153,65,28064,Kardinia Park
+03-Aug-2025,3:10 PM,Fremantle,Carlton,94,67,39358,Perth Stadium
+07-Aug-2025,7:30 PM,Hawthorn,Collingwood,110,46,68515,M.C.G.
+08-Aug-2025,7:40 PM,Geelong,Essendon,109,65,30289,Kardinia Park
+09-Aug-2025,1:20 PM,Richmond,St Kilda,52,56,41395,M.C.G.
+09-Aug-2025,4:15 PM,Brisbane Lions,Sydney,90,92,31424,Gabba
+09-Aug-2025,7:35 PM,Carlton,Gold Coast,74,93,24120,Docklands
+09-Aug-2025,7:40 PM,Port Adelaide,Fremantle,86,92,30390,Adelaide Oval
+10-Aug-2025,1:40 PM,Greater Western Sydney,North Melbourne,133,79,11753,Manuka Oval
+10-Aug-2025,3:15 PM,Melbourne,Western Bulldogs,99,105,34733,M.C.G.
+10-Aug-2025,3:10 PM,West Coast,Adelaide,78,87,32845,Perth Stadium
+15-Aug-2025,7:20 PM,Essendon,St Kilda,75,77,31107,Docklands
+15-Aug-2025,6:35 PM,Fremantle,Brisbane Lions,44,101,54302,Perth Stadium
+16-Aug-2025,12:35 PM,Gold Coast,Greater Western Sydney,76,111,16007,Carrara
+16-Aug-2025,1:20 PM,Carlton,Port Adelaide,118,64,25020,Docklands
+16-Aug-2025,4:15 PM,Hawthorn,Melbourne,92,56,53871,M.C.G.
+16-Aug-2025,7:05 PM,Adelaide,Collingwood,59,56,54283,Adelaide Oval
+17-Aug-2025,1:10 PM,North Melbourne,Richmond,135,87,11176,Bellerive Oval
+17-Aug-2025,3:15 PM,Sydney,Geelong,68,111,37656,S.C.G.
+17-Aug-2025,4:40 PM,Western Bulldogs,West Coast,126,32,21207,Docklands
+21-Aug-2025,7:30 PM,Essendon,Carlton,56,90,41150,M.C.G.
+22-Aug-2025,7:10 PM,Collingwood,Melbourne,82,76,60611,M.C.G.
+22-Aug-2025,7:40 PM,Port Adelaide,Gold Coast,71,67,40897,Adelaide Oval
+23-Aug-2025,1:20 PM,North Melbourne,Adelaide,100,113,17494,Docklands
+23-Aug-2025,4:15 PM,Richmond,Geelong,64,103,46109,M.C.G.
+23-Aug-2025,5:35 PM,West Coast,Sydney,51,118,36029,Perth Stadium
+24-Aug-2025,12:20 PM,Greater Western Sydney,St Kilda,104,93,10563,Sydney Showground
+24-Aug-2025,3:15 PM,Western Bulldogs,Fremantle,97,112,44069,Docklands
+24-Aug-2025,7:20 PM,Brisbane Lions,Hawthorn,89,79,32086,Gabba
+04-Sep-2025,7:10 PM,Adelaide,Collingwood,55,79,52187,Adelaide Oval
+05-Sep-2025,7:40 PM,Geelong,Brisbane Lions,112,74,86364,M.C.G.
+06-Sep-2025,3:15 PM,Greater Western Sydney,Hawthorn,88,107,20634,Sydney Showground
+06-Sep-2025,5:35 PM,Fremantle,Gold Coast,79,80,57507,Perth Stadium
+12-Sep-2025,7:10 PM,Adelaide,Hawthorn,67,101,52005,Adelaide Oval
+13-Sep-2025,7:35 PM,Brisbane Lions,Gold Coast,100,47,36628,Gabba
+19-Sep-2025,7:40 PM,Geelong,Hawthorn,115,85,99567,M.C.G.
+20-Sep-2025,5:15 PM,Collingwood,Brisbane Lions,71,100,96023,M.C.G.
+27-Sep-2025,2:30 PM,Geelong,Brisbane Lions,75,122,100022,M.C.G.

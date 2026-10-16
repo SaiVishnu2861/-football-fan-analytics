@@ -1,0 +1,3 @@
+SELECT *
+FROM member_360
+LIMIT 10;

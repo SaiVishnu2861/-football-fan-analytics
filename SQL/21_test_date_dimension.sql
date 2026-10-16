@@ -1,0 +1,3 @@
+SELECT *
+FROM dim_date
+LIMIT 10;
