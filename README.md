@@ -164,6 +164,12 @@ The `member_360` reporting layer consolidates CRM, attendance and transaction be
 
 The first dashboard focuses on **member engagement, retention and commercial performance**.
 
+### Dashboard Preview
+
+![Engagement and Renewal](Dashboard/screenshots/Engagement%20and%20Renewal%201.png)
+
+![Commercial Performance and Key Insights](Dashboard/screenshots/Commercial%20performance%20and%20key%20Insights.png)
+
 Headline metrics:
 
 - **5,000** simulated members
@@ -195,6 +201,12 @@ Merchandise represents the largest simulated transaction-revenue category.
 ## Dashboard 2 — Match & Fan Behaviour
 
 The second dashboard connects the CRM case study to the **real 2025 Richmond home-match environment**.
+
+### Dashboard Preview
+
+![Home Match Environment](Dashboard/screenshots/Home%20Match%20Env%202.png)
+
+![Match Performance](Dashboard/screenshots/Match%20Perf%202.png)
 
 Public-data metrics include:
 
@@ -298,12 +310,11 @@ football-fan-analytics/
 ├── SQL/
 │   └── 01–26 SQL workflow
 │
-├── football_analytics.duckdb
 ├── requirements.txt
 ├── .gitignore
 └── README.md
 ```
-
+> `football_analytics.duckdb` is generated locally and excluded from version control.
 ---
 
 ## Running the Project
